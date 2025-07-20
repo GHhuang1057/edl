@@ -12,3 +12,5 @@ qrcode
 requests
 passlib
 Exscript
+PySide6==6.4.2
+PySide6-Fluent-Widgets>=1.5.5
